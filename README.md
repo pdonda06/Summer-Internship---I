@@ -174,6 +174,7 @@ For any questions or inquiries, please contact princedonda4489@gmail.com.
 
 Link
 https://pdonda06.github.io/TextUtils-react/
+-------
 https://github.com/pdonda06/TextUtils-react
 -------
 
